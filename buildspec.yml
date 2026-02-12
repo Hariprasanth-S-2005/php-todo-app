@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_DEFAULT_REGION: us-east-1
-    REPOSITORY_URI: 146040387664.dkr.ecr.us-east-1.amazonaws.com/php-nginx-todo
+    REPOSITORY_URI: 146040387664.dkr.ecr.us-east-1.amazonaws.com/php-todo
 
 phases:
   pre_build:
